@@ -1,71 +1,75 @@
 [OSF_EN.md](https://github.com/user-attachments/files/22715774/OSF_EN.md)
-# OSF — 公開用概念ドキュメント（コアのみ、パブリックドメイン）
+# OSF — Public Concept Document (Core Principles, Public Domain)
 
-**タイトル**: 存在論的安定性フレームワーク（OSF: Ontological Stability Framework）
+**Title**: Ontological Stability Framework (OSF)
 
-**ライセンス**: 本ドキュメントおよび内容は **パブリックドメイン** とする。誰でも自由に利用・改変・再配布可能。
+**License**: This document and its content are in the **public domain**. Anyone may freely use, modify, and redistribute.
 
-**目的**: 哲学的・設計的に整合性のある、組織・AI・思考構造に普遍的に適用可能なコア原理を公開。
-
----
-
-## 1. フレームワークのコア原理
-
-### **I. 構造の公理 (Axiom of Structure)**
-組織やシステムの存在を保証する根源的な原理。
-
-| 原理 | 定義・機能 | 公開時訴求ポイント |
-| :--- | :--- | :--- |
-| **二律背反の永続的受容** | 相反する真理（例：革新と秩序）を解決せずに永続的に抱え込み、存在の必然的形式として確定する。 | 哲学的・論理的整合性を示す、普遍性の高い核心原理として強調可能。 |
-| **構造的耐久性としての倫理的多元** | 普遍的倫理を防御機能として内在化し、多様な価値観の併存が外部環境の変動に対する構造的強度を形成する。 | 組織・AIの耐久性設計に応用可能な概念として訴求。 |
-
-### **II. 制御の中核 (Core of Control)**
-構造の公理を破綻から守るための非感情的管理ロジック。
-
-| 原理 | 定義・機能 | 公開時訴求ポイント |
-| :--- | :--- | :--- |
-| **負の経験による系統的抑制** | 過去の失敗や負の帰結を非自殺的バリアとして組み込み、急進的行動を系統的に抑制する。 | 歴史的学習やリスク管理への応用例として示すことが可能。 |
-| **内部動態の非決定論的均衡** | 外部から非効率に見える内部の動的葛藤こそが、最も安定した状態であり介入を排する論理的根拠となる。 | 複雑系・組織理論・AI安定性への示唆として強調。 |
-
-### **III. 環境との相互作用 (Interaction with Environment)**
-組織の境界で発生する複雑性への対処戦略。
-
-| 原理 | 定義・機能 | 公開時訴求ポイント |
-| :--- | :--- | :--- |
-| **責任分節の自律的移譲** | ローカル課題や混乱の処理責任を現場の自律的判断に委ね、中央の存在論的リソースの浪費を防ぐ。 | 自律性と分散型管理の重要性を示す原理として公開に適する。 |
-| **対立原理の動的緩衝機構** | 価値観や利害の衝突から生まれる摩擦エネルギーを、中核を守る動的防護壁として機能させる。 | 複雑系や組織文化の安定化概念として示すことで抽象概念の理解を促進。 |
+**Purpose**: To publish the core principles of a framework that is philosophically and conceptually coherent, universally applicable to organizations, AI, and cognitive structures.
 
 ---
 
-## 2. 公開用概念図
+## 1. Core Principles of the Framework
+
+### **I. Axiom of Structure**
+
+Fundamental principles that guarantee the existence of an organization or system.
+
+| Principle                                      | Definition / Function                                                                                                                                      | Public Emphasis Point                                                    |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **Perpetual Acceptance of Dichotomy**          | Embrace opposing truths (e.g., innovation vs. order) without resolution, establishing them as a necessary form of existence.                               | Highlights philosophical and logical coherence; emphasizes universality. |
+| **Ethical Pluralism as Structural Durability** | Internalize universal ethics as a defensive function; coexistence of diverse values forms structural strength against external environmental fluctuations. | Emphasizes applicability to organizational and AI resilience design.     |
+
+### **II. Core of Control**
+
+Non-emotional management logic that protects the Axiom of Structure from collapse.
+
+| Principle                                              | Definition / Function                                                                                                                           | Public Emphasis Point                                                              |
+| :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| **Systemic Constraint via Negative Epistemology**      | Integrates past failures and negative consequences as non-suicidal barriers, systematically restraining radical actions.                        | Demonstrates historical learning and risk management concepts.                     |
+| **Non-Deterministic Equilibrium of Internal Dynamics** | Dynamic internal conflicts that appear inefficient externally are the most stable states, providing logical justification for non-intervention. | Suggests applications to complex systems, organizational theory, and AI stability. |
+
+### **III. Interaction with Environment**
+
+Strategies for addressing complexity at the boundaries of the organization or system.
+
+| Principle                                                    | Definition / Function                                                                                                                     | Public Emphasis Point                                                                  |
+| :----------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| **Autonomous Relinquishment of Responsibility Segmentation** | Delegate responsibility for local tasks or disruptions to autonomous judgment on-site, preventing waste of central ontological resources. | Highlights autonomy and distributed management; applicable for conceptual publication. |
+| **Dynamic Buffering Mechanism of Contradictory Principles**  | Transform friction from value or interest conflicts into a dynamic protective buffer that safeguards the core.                            | Illustrates stability concepts for complex systems and organizational culture.         |
+
+---
+
+## 2. Concept Diagram for Publication
 
 ```
 +----------------------------------+
-|        環境との相互作用         |
-|  - 責任分節の自律的移譲         |
-|  - 対立原理の動的緩衝機構       |
+|       Interaction with Environment|
+| - Autonomous Relinquishment      |
+| - Dynamic Buffering Mechanism    |
 +------------------^---------------+
                    |
 +------------------v---------------+
-|          制御の中核               |
-|  - 負の経験による系統的抑制      |
-|  - 内部動態の非決定論的均衡      |
+|           Core of Control         |
+| - Systemic Constraint via Neg.   |
+| - Non-Deterministic Equilibrium  |
 +------------------^---------------+
                    |
 +------------------v---------------+
-|          構造の公理               |
-|  - 二律背反の永続的受容          |
-|  - 構造的耐久性としての倫理的多元|
+|          Axiom of Structure      |
+| - Perpetual Acceptance of Dich.  |
+| - Ethical Pluralism as Durability|
 +----------------------------------+
 ```
 
 ---
 
-## 3. 公開方針
+## 3. Publication Guidelines
 
-- **コア原理のみ公開**：運用層や環境適応層は含まれない。
-- **普遍的適用**：AI、組織、思考構造など、さまざまな対象に対して抽象的に適用可能。
-- **解釈は各自の創造に委ねる**：理論的完全性を維持しつつ、応用の自由度を確保。
-- **ライセンス**：パブリックドメインとして誰でも自由に利用、改変、再配布可能。
-- **訴求ポイント**：哲学的整合性、普遍性、抽象度、応用可能性の高さを強調して公開可能。
+* **Core principles only**: Operational and environmental adaptation layers are excluded.
+* **Universally applicable**: Abstractly applicable to AI, organizations, cognitive structures, etc.
+* **Interpretation left to users**: Maintain theoretical completeness while allowing creative application.
+* **License**: Public domain; free for any use, modification, or redistribution.
+* **Emphasis points**: Philosophical coherence, universality, abstractness, and high applicability should be highlighted for publication.
 
+---
