@@ -24,7 +24,7 @@ It defines stability not as rigidity, but as **the dynamic persistence of parado
 
 ## 🧩 Conceptual Diagram | 概念図
 
-![OSF Diagram](./A_diagram_titled_"Ontological_Stability_Framework".png)
+![OSF Diagram](./diagrams/OSF%20Diagram.png)
 
 ---
 
