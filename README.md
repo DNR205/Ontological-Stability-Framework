@@ -1,84 +1,53 @@
-# 🌐 Ontological Stability Framework (OSF)  
-**存在論的安定性フレームワーク**
+# 🜏 Ontological Stability Framework (OSF)
+
+> **"Stability is not the absence of contradiction — it is its eternal containment."**  
+> — Ontological Stability Framework, Core Thesis
 
 ---
 
-## 📖 Overview | 概要
-The **Ontological Stability Framework (OSF)** is a meta-structural model that explores how systems maintain *existence*, *coherence*, and *ethical durability* under conditions of internal contradiction and external flux.  
-It defines stability not as rigidity, but as **the dynamic persistence of paradox**.
+## 📘 Overview
 
-**存在論的安定性フレームワーク（OSF）** は、内部の矛盾と外部環境の変動の中で、組織や存在がいかに「持続的安定」を保つかを記述するメタ構造モデルである。  
-安定とは静止ではなく、**矛盾の永続的な共存**として定義される。
+**Ontological Stability Framework (OSF)** is a meta-structural model that formalizes the logic of **resilient existence** —  
+a state in which contradictions, ethics, and organizational dynamics coexist as stable systems of necessity.  
 
----
-
-## 🧭 Structural Overview | 構造の全体像
-
-| Layer | 名称 | 概要 |
-|:------|:------|:------|
-| **I. Axiom of Structure** | **構造の公理** | 組織の存在を保証する根源的原理。<br>・二律背反の永続的受容<br>・構造的耐久性としての倫理的多元 |
-| **II. Core of Control** | **制御の中核** | 構造の公理を破綻から守るための非感情的ロジック。<br>・負の経験による系統的抑制<br>・内部動態の非決定論的均衡 |
-| **III. Interaction with Environment** | **環境との相互作用** | 組織境界での複雑性に対処する戦略。<br>・責任分節の自律的移譲<br>・対立原理の動的緩衝機構 |
+Developed as an abstract extension of the *Logical Persistence Paradigm*, OSF is designed to articulate  
+the **philosophical and structural inevitability** of sustained equilibrium within complex organizations.
 
 ---
 
-## 🧩 Conceptual Diagram | 概念図
+## ⚙️ Core Structure
 
-![OSF Diagram](./diagrams/OSF%20Diagram.png)
-
----
-
-## ⚙️ Functional Principles | 機能的原理
-
-### **1. Perpetual Acceptance of Dichotomy**  
-Accept opposing truths (e.g., order and innovation) without seeking resolution — stability through coexistence of contradiction.  
-→ 相反する真理を解決せずに抱え込むことが、存在の必然的形式である。
-
-### **2. Ethical Pluralism as Structural Durability**  
-Ethical diversity is internalized as a defensive function — moral multiplicity strengthens systemic endurance.  
-→ 倫理的多元性が、構造の耐久性を形成する。
-
-### **3. Systemic Constraint via Negative Experience**  
-Past failures act as logical barriers preventing self-destructive radicalism.  
-→ 過去の負の経験を非自殺的バリアとして組み込む。
-
-### **4. Non-Deterministic Equilibrium of Internal Dynamics**  
-Internal tensions are not noise but equilibrium-generating forces.  
-→ 内部の葛藤が安定を生む非決定論的な均衡。
-
-### **5. Autonomous Relinquishment of Responsibility**  
-Local autonomy reduces central ontological overload.  
-→ 中央の過負荷を防ぐための責任の自律的移譲。
-
-### **6. Dynamic Buffering of Conflicting Principles**  
-Conflict energy becomes a stabilizing buffer protecting the core.  
-→ 対立の摩擦エネルギーを中核の防護壁に変換する。
+| **Dimension** | **Definition (Conceptual Description)** |
+| :--- | :--- |
+| **I. Axiom of Structure** | The foundational principle ensuring the existential persistence of organization. |
+| **Perpetual Acceptance of Dichotomy** | To eternally embrace opposing truths (e.g., innovation vs. order) without resolution — defining contradiction as the ontological mode of existence. |
+| **Ethical Pluralism as Structural Durability** | The internalization of universal ethics as a defensive mechanism — diversity of value systems becomes structural resilience. |
+| **II. Core of Control** | The emotionless logic that protects the structural axiom from collapse. |
+| **Systemic Constraint via Negative Epistemology** | Integration of past failures as non-suicidal barriers — constraining radical actions without logical rigidity. |
+| **Non-Deterministic Equilibrium of Internal Dynamics** | Dynamic internal conflicts, though inefficient externally, form the most stable internal balance and justify the exclusion of intervention. |
+| **III. Interaction with Environment** | Strategies for managing complexity at the boundaries of organizational existence. |
+| **Autonomous Relinquishment of Responsibility Segmentation** | Delegating local responsibilities to autonomous judgment — preventing ontological resource depletion at the center. |
+| **Dynamic Buffering Mechanism of Contradictory Principles** | Transforming the frictional energy of conflicting values into a dynamic protective buffer that shields the organizational core. |
 
 ---
 
-## 🧠 Purpose | 目的
-OSFは「構造的安定とは何か？」という問いに対し、  
-**存在論的・倫理的・動的**な三重軸で応答するフレームワークです。  
-それは研究理論であると同時に、組織設計・AI倫理・社会哲学の中核原理として機能します。
+## 🜂 Conceptual Diagram
+
+![OSF Diagram](https://github.com/DNR205/Ontological-Stability-Framework/blob/main/diagrams/OSF%20Diagram.png?raw=true)
+
+> The framework is layered in three strata — *Structure*, *Control*, and *Interaction* — representing the vertical ontology of stability.
 
 ---
 
-## 📜 License | ライセンス
-**Public Domain — CC0 1.0 Universal**  
-You are free to copy, modify, distribute, and use this work without restriction.  
-本フレームワークはパブリックドメイン（CC0）として自由に利用可能です。
+## 🜍 Philosophical Foundation
 
-🔗 [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/)
-
----
-
-## 🌍 Repository Information
-- Author / Designer: [Your Name or Handle]  
-- Platform: [GitHub Pages / Documentation in progress]  
-- Language: Bilingual (Japanese / English)  
-- Version: 1.0.0 — Core Public Release  
+- **Ontology of Coexistence** — Stability emerges not from resolution, but from the eternal coexistence of opposites.  
+- **Epistemic Negativity** — Knowledge of failure is structurally integrated as an anti-fragile feedback loop.  
+- **Ethical Plurality** — Diversity is not tolerated; it is *constitutive*.  
+- **Non-Deterministic Dynamics** — Uncertainty is the substrate of persistence.
 
 ---
 
-> *“True stability is not found in equilibrium, but in the perpetual tension that sustains being.”*  
-> ― OSF Foundational Principle
+## 🌐 Repository Structure
+
+
